@@ -1,4 +1,4 @@
-package rating;
+package Rating.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
